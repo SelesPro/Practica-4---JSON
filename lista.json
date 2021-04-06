@@ -1,0 +1,348 @@
+[ {
+    "Alcampo": {
+      "direccion": "Avenida Pío XII, 4",
+      "población": "Madrid",
+      "provincia": "Madrid",
+      "cp": "28016",
+      "geolocalizacion": {
+        "latitud": "3° 33′ 39",
+        "longitud": "3° 33′ 39"
+      },
+      "Leche": [
+        {
+          "tipo": "vaca",
+          "articulos": [
+            {
+              "nombre": "Leche desnatada Lauki",
+              "unidad de medida": "litro",
+              "precio": "0,75€",
+              "oferta": false,
+              "fechaInicioOferta": null,
+              "fechaFinOferta": null,
+              "stock": "254",
+              "consumo habitual":true,
+              "comprado": true
+
+            },
+            {
+              "nombre": "Leche semidesnatada Pascual",
+              "unidad de medida": "litro",
+              "precio": "0,83€",
+              "oferta": true,
+              "fechaInicioOferta": "01/11/21",
+              "fechaFinOferta": "13/11/21",
+              "stock": "436",
+              "consumo habitual":false,
+              "comprado": false
+            }
+          ]
+        },
+        {
+          "tipo": "Sin Lactosa",
+          "articulos": [
+            {
+              "nombre": "Lechea Desnatada sin lactosa celta",
+              "unidad de medida": "litro",
+              "precio": "0,79€",
+              "oferta": false,
+              "fechaInicioOferta": null,
+              "fechaFinOferta": null,
+              "stock": "365",
+              "consumo habitual":false,
+              "comprado": false
+            },
+            {
+              "nombre": "Leche semidesnatada sin lactosa Kaiku",
+              "unidad de medida": "litro",
+              "precio": "1,08€",
+              "oferta": false,
+              "fechaInicioOferta": null,
+              "fechaFinOferta": null,
+              "stock": "419",
+              "consumo habitual":true,
+              "comprado": true
+            }
+          ]
+        },
+        {
+          "tipo": "BIO",
+          "articulos": [
+            {
+              "nombre": "Leche Auchan ",
+              "unidad de medida": "litro",
+              "precio": "1,23€",
+              "oferta": false,
+              "fechaInicioOferta": null,
+              "fechaFinOferta": null,
+              "stock": "525",
+              "consumo habitual":false,
+              "comprado": true
+            },
+            {
+              "nombre": "Leche semidesnatada de vaca con alimentación ecológica",
+              "unidad de medida": "litro",
+              "precio": "1,08€",
+              "oferta": false,
+              "fechaInicioOferta": null,
+              "fechaFinOferta": null,
+              "stock": "3",
+              "comprado": false
+            }
+          ]
+        }
+      ],
+      "Cafe":[
+        {
+            "tipo": "torrefacto",
+            "articulos": [
+              {
+                "nombre": "Estrella",
+                "unidad de medida": "kilo",
+                "precio": "1,25€",
+                "oferta": false,
+                "fechaInicioOferta": null,
+                "fechaFinOferta": null,
+                "stock": "250",
+                "consumo habitual":true,
+                "comprado": true
+              },
+              {
+                "nombre": "Marcilla",
+                "unidad de medida": "kilo",
+                "precio": "1,53€",
+                "oferta": true,
+                "fechaInicioOferta": "05/04/21",
+                "fechaFinOferta": "16/05/21",
+                "stock": "300",
+                "consumo habitual":false,
+                "comprado": false
+              }
+            ]
+          },
+          {
+            "tipo": "natural",
+            "articulos": [
+              {
+                "nombre": "Auchan",
+                "unidad de medida": "kilo",
+                "precio": "0,95€",
+                "oferta": false,
+                "fechaInicioOferta": null,
+                "fechaFinOferta": null,
+                "stock": "250",
+                "consumo habitual":true,
+                "comprado": true
+              }
+            ]
+          }
+      ],
+      "Aceite":[
+        {
+            "tipo": "Oliva",
+            "articulos": [
+              {
+                "nombre": "Carbonell",
+                "unidad de medida": "litro",
+                "precio": "12,25€",
+                "oferta": false,
+                "fechaInicioOferta": null,
+                "fechaFinOferta": null,
+                "stock": "250",
+                "consumo habitual":true,
+                "comprado": true
+              },
+              {
+                "nombre": "Oil",
+                "unidad de medida": "litro",
+                "precio": "10,50€",
+                "oferta": true,
+                "fechaInicioOferta": "15/04/21",
+                "fechaFinOferta": "26/05/21",
+                "stock": "350",
+                "consumo habitual":false,
+                "comprado": false
+              }
+            ]
+          },
+          {
+            "tipo": "Girasol",
+            "articulos": [
+              {
+                "nombre": "Prima",
+                "unidad de medida": "litro",
+                "precio": "5,25€",
+                "oferta": false,
+                "fechaInicioOferta": null,
+                "fechaFinOferta": null,
+                "stock": "1150",
+                "consumo habitual":true,
+                "comprado": true
+              },
+              {
+                "nombre": "Gira-Oil",
+                "unidad de medida": "litro",
+                "precio": "6,50€",
+                "oferta": true,
+                "fechaInicioOferta": "15/04/21",
+                "fechaFinOferta": "26/05/21",
+                "stock": "250",
+                "consumo habitual":false,
+                "comprado": false
+              }
+            ]
+          }
+         
+      ]
+    },
+    "Carrefour": {
+      "direccion": " Gran Vía,56",
+      "población": "Leganés",
+      "provincia": "Madrid",
+      "cp": "28943",
+      "geolocalizacion": {
+        "latitud": "3 33 39",
+        "longitud": "3 33 39"
+      },
+      "Leche": [
+        {
+          "tipo": "vaca",
+          "modelos": [
+            {
+              "nombre": "Leche entera fresca Los Combos",
+              "precio": "1,09€",
+              "oferta": false,
+              "fechaInicioOferta": null,
+              "fechaFinOferta": null,
+              "stock": "53"
+            },
+            {
+              "nombre": "Leche desnatada Lauki brik 1 l.",
+              "precio": "0,72€",
+              "oferta": false,
+              "fechaInicioOferta": null,
+              "fechaFinOferta": null,
+              "stock": "325"
+            }
+          ]
+        },
+        {
+          "tipo": "SIN LACTOSA",
+          "modelos": [
+            {
+              "nombre": "Leche desnatada Pascual sin lactosa brik 1 l.",
+              "precio": "0,99€",
+              "oferta": true,
+              "fechaInicioOferta": "08/11/21",
+              "fechaFinOferta": "21/11/21",
+              "stock": "25"
+            }
+          ]
+        }
+        
+      ],
+      "Cafe":[
+        {
+            "tipo": "torrefacto",
+            "articulos": [
+              {
+                "nombre": "Carrefour",
+                "unidad de medida": "kilo",
+                "precio": "1,05€",
+                "oferta": false,
+                "fechaInicioOferta": null,
+                "fechaFinOferta": null,
+                "stock": "250",
+                "consumo habitual":true,
+                "comprado": true
+              },
+              {
+                "nombre": "Marcilla",
+                "unidad de medida": "kilo",
+                "precio": "1,23€",
+                "oferta": true,
+                "fechaInicioOferta": "01/05/21",
+                "fechaFinOferta": "13/05/21",
+                "stock": "300",
+                "consumo habitual":false,
+                "comprado": false
+              }
+            ]
+          },
+          {
+            "tipo": "natural",
+            "articulos": [
+              {
+                "nombre": "Auchan",
+                "unidad de medida": "kilo",
+                "precio": "0,95€",
+                "oferta": false,
+                "fechaInicioOferta": null,
+                "fechaFinOferta": null,
+                "stock": "250",
+                "consumo habitual":true,
+                "comprado": true
+              }
+            ]
+          }
+      ],
+      "Aceite":[
+        {
+            "tipo": "Oliva",
+            "articulos": [
+              {
+                "nombre": "Carbonell",
+                "unidad de medida": "litro",
+                "precio": "13,25€",
+                "oferta": false,
+                "fechaInicioOferta": "05/05/2021",
+                "fechaFinOferta": "09/05/2021",
+                "stock": "550",
+                "consumo habitual":true,
+                "comprado": true
+              },
+              {
+                "nombre": "Oil",
+                "unidad de medida": "litro",
+                "precio": "10,50€",
+                "oferta": true,
+                "fechaInicioOferta": "15/04/21",
+                "fechaFinOferta": "26/05/21",
+                "stock": "650",
+                "consumo habitual":false,
+                "comprado": false
+              }
+            ]
+          },
+          {
+            "tipo": "Girasol",
+            "articulos": [
+              {
+                "nombre": "Prima",
+                "unidad de medida": "litro",
+                "precio": "5,39€",
+                "oferta": false,
+                "fechaInicioOferta": null,
+                "fechaFinOferta": null,
+                "stock": "620",
+                "consumo habitual":true,
+                "comprado": true
+              },
+              {
+                "nombre": "Gira-Oil",
+                "unidad de medida": "litro",
+                "precio": "4,50€",
+                "oferta": true,
+                "fechaInicioOferta": "15/04/21",
+                "fechaFinOferta": "26/05/21",
+                "stock": "1250",
+                "consumo habitual":false,
+                "comprado": false
+              }
+            ]
+          }
+         
+      ]
+
+    }
+  }
+]
